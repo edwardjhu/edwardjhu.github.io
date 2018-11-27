@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Edward Hu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a graduating senior and a Research Assistant at the JHU Center for Language and Speech Processing. My aspiration to gap the communication between human and machines brought me to researches in Natural Language Understanding. While waiting for models to train, I paddle for the Hopkins/Baltimore Dragon Boat Club and practice 10-m air-rifle shooting."
-  location         : "Somewhere"
+  bio              : "I'm a graduating senior and a Research Assistant at the JHU Center for Language and Speech Processing. \nMy aspiration to gap the communication between human and machines brought me to researches in Natural Language Understanding. \nWhile waiting for models to train, I paddle for the Hopkins/Baltimore Dragon Boat Club and practice 10-m air-rifle shooting."
+  location         : "Baltimore, MD"
   email            : "edward.hu@jhu.edu"
   links:
     - label: "Email"
