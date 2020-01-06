@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edward Hu's Homepage"
+title                    : "About Edward Hu"
 title_separator          : "-"
 name                     : "Edward Hu"
 description              : "A website about Edward Hu."
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Edward Hu"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "AI Resident @ Microsoft Research; B.S. Comp Sci, Cog Sci, Johns Hopkins University 2019."
+  bio              : "AI Resident @ Microsoft Research; B.S. Comp Sci, Cog Sci, JHU 2019."
   location         : "Redmond, WA"
   email            : "edward dot hu at jhu dot edu"
   links:
@@ -133,13 +133,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/edwdh_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/edwdh"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -288,5 +288,5 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
