@@ -1,7 +1,11 @@
 ---
-title:  "ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexically-constrained Neural Machine Translation"
+title:  "ParaBank: paraphrase generation from bilingual data"
 ---
 
-__J. Edward Hu__, Rachel Rudinger, Matt Post, and Benjamin Van Durme
+Paraphrases are quite useful for understanding semantics, yet most resources are lexical. We combined back-translation (from ParaNMT) and constrained decoding in machine translation to produce a large-scale sentence-level paraphrase resource. We used human evaluation to show that this new resource is indeed of high-quality, and trained a generation model to produce paraphrases for any English sentences.
 
-We present ParaBank, a large-scale English paraphrase dataset that surpasses prior work in both quantity and quality. Following the approach of ParaNMT, we train a Czech-English neural machine translation (NMT) system to generate novel paraphrases of English reference sentences. By adding lexical constraints to the NMT decoding procedure, however, we are able to produce multiple high-quality sentential paraphrases per source sentence, yielding an English paraphrase resource with more than 4 billion generated tokens and exhibiting greater lexical diversity. Using human judgments, we also demonstrate that ParaBank's paraphrases improve over ParaNMT on both semantic similarity and fluency. Finally, we use ParaBank to train a monolingual NMT model with the same support for lexically-constrained decoding for sentence rewriting tasks.
+My first paper ever. Much thanks to my co-authors (Rachel, Matt, and Ben) for helping me pull this off.
+
+The paper is titled "ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexically-constrained Neural Machine Translation," which I presented at AAAI 2019.
+
+Please check it out on arXiv: [https://arxiv.org/abs/1901.03644](https://arxiv.org/abs/1901.03644) or [here](/assets/files/parabank.pdf).
