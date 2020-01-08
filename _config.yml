@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Edward Hu"
+title                    : "Edward Hu - Microsoft AI Resident - JHU"
 title_separator          : "-"
 name                     : "Edward Hu"
-description              : "A website about Edward Hu."
+description              : "A website about Edward Hu. AI Resident at Microsoft Research. B.S. Johns Hopkins University. NLP."
 url                      : "https://edwdh.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "edwdh/edwdh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
