@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edward Hu - Microsoft AI Resident - JHU"
+title                    : "Edward Hu - Microsoft AI Resident - Johns Hopkins"
 title_separator          : "-"
 name                     : "Edward Hu"
-description              : "A website about Edward Hu. AI Resident at Microsoft Research. B.S. Johns Hopkins University. NLP."
-url                      : "https://edwardhu.net"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A website about Edward Hu. AI Resident at Microsoft Research. B.S. Johns Hopkins University, Research Assisant at Center of Language and Speech Processing."
+url                      : "https://edwardjhu.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "edwdh/edwdh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "edwardjhu/edwardjhu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -117,13 +117,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/edwdh_"
+      url: "https://twitter.com/edwardjhu"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/edwdh"
+      url: "https://github.com/edwardjhu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -133,13 +133,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/edwdh_"
+      url: "https://twitter.com/edwardjhu"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/edwdh"
+      url: "https://github.com/edwardjhu"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
